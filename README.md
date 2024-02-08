@@ -1,4 +1,4 @@
-# Pharmaceutical_project
+# Pharmaceutical_Project
 Pharmaceutical Sales prediction across multiple stores
 
 ## Overview
