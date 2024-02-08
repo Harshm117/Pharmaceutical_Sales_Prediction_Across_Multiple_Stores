@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1707157883157
+current_stage: None
+description: ''
+last_updated_timestamp: 1707157883157
+name: LSTM
+run_id: deaa52a5c66c48788942af8adc5b3822
+run_link: ''
+source: file:///c:/Users/Admin/AI_COURSE_DIGICROME/Pharmaceutical_Sales_Prediction/mlruns/896222443689412085/deaa52a5c66c48788942af8adc5b3822/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Admin/AI_COURSE_DIGICROME/Pharmaceutical_Sales_Prediction/mlruns/896222443689412085/deaa52a5c66c48788942af8adc5b3822/artifacts/model
+user_id: null
+version: 1

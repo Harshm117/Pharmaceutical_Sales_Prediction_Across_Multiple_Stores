@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/AI_COURSE_DIGICROME/Pharmaceutical_Sales_Prediction/mlruns/0/d6926d29ea48410593fc0d6fbd4caac3/artifacts
+end_time: 1707153782521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6926d29ea48410593fc0d6fbd4caac3
+run_name: LinearRegression
+run_uuid: d6926d29ea48410593fc0d6fbd4caac3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707153777268
+status: 3
+tags: []
+user_id: Admin

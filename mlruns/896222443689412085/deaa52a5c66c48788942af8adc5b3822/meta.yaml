@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/AI_COURSE_DIGICROME/Pharmaceutical_Sales_Prediction/mlruns/896222443689412085/deaa52a5c66c48788942af8adc5b3822/artifacts
+end_time: 1707157351949
+entry_point_name: ''
+experiment_id: '896222443689412085'
+lifecycle_stage: active
+run_id: deaa52a5c66c48788942af8adc5b3822
+run_name: LSTM_model
+run_uuid: deaa52a5c66c48788942af8adc5b3822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707157221053
+status: 3
+tags: []
+user_id: Admin

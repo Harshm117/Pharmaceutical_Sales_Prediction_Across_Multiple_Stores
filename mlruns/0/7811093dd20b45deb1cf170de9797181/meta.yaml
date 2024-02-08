@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Admin/AI_COURSE_DIGICROME/Pharmaceutical_Sales_Prediction/mlruns/0/7811093dd20b45deb1cf170de9797181/artifacts
+end_time: 1707153742007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7811093dd20b45deb1cf170de9797181
+run_name: RandomForest
+run_uuid: 7811093dd20b45deb1cf170de9797181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707153728344
+status: 3
+tags: []
+user_id: Admin

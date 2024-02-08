@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1707157837650
+current_stage: None
+description: ''
+last_updated_timestamp: 1707157837650
+name: RandomForest
+run_id: 8b4935a7b3f247e7a7333fb41375585a
+run_link: ''
+source: file:///c:/Users/Admin/AI_COURSE_DIGICROME/Pharmaceutical_Sales_Prediction/mlruns/973455458798772459/8b4935a7b3f247e7a7333fb41375585a/artifacts/rf_regression_run
+  Model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/Admin/AI_COURSE_DIGICROME/Pharmaceutical_Sales_Prediction/mlruns/973455458798772459/8b4935a7b3f247e7a7333fb41375585a/artifacts/rf_regression_run
+  Model
+user_id: null
+version: 1

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Admin/AI_COURSE_DIGICROME/Pharmaceutical_Sales_Prediction/mlruns/973455458798772459/eaefd7a2e7e74702a31d55e5051ff6d9/artifacts
+deleted_time: 1707156126468
+end_time: 1707155841753
+entry_point_name: ''
+experiment_id: '973455458798772459'
+lifecycle_stage: deleted
+run_id: eaefd7a2e7e74702a31d55e5051ff6d9
+run_name: rf_regression_run
+run_uuid: eaefd7a2e7e74702a31d55e5051ff6d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707155839691
+status: 4
+tags: []
+user_id: Admin
